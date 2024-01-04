@@ -5,7 +5,7 @@ run the command npm run dev
 make database name in xamp (i user mysql)
 <br>
 export database which i give you feedback.sql
-<br
+<br>
 set env 
 <br>
 generate key of env
